@@ -1,0 +1,8 @@
+{"slug": "10_variation-selection", "title_tr": "Çeşitlilik ve seçim", "term_en": "variation and selection",
+ "frames": [
+  {"image": "images/10_variation-selection/sheet_padded.jpg", "caption": "36 kare, aynı sahne."},
+  {"image": "images/10_variation-selection/sheet_upright.jpg", "crop": [750, 874, 4450, 2526], "caption": "Küçük farklar."},
+  {"image": "images/10_variation-selection/sheet_upright.jpg", "crop": [1350, 1259, 3250, 2107], "caption": "Fotoğrafçı birini seçer."},
+  {"image": "images/10_variation-selection/chosen_padded.jpg", "caption": "Seçim, fotoğrafı yapar."},
+  {"image": "images/10_variation-selection/sheet_padded.jpg", "caption": "Çeşitlilik makineden, seçim insandan."}
+ ]}

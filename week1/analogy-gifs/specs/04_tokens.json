@@ -1,0 +1,8 @@
+{"slug": "04_tokens", "title_tr": "Token", "term_en": "tokens",
+ "frames": [
+  {"image": "images/04_tokens/ktisis_padded.jpg", "caption": "Bir resim."},
+  {"image": "images/04_tokens/ktisis_mosaic.jpg", "crop": [1700, 930, 2900, 1466], "caption": "Aslında küçük parçalar."},
+  {"image": "images/04_tokens/smalti_sampler.jpg", "crop": [0, 1050, 2304, 2079], "caption": "Her parça kutudaki sınırlı renklerden biri."},
+  {"image": "images/04_tokens/smalti_sampler.jpg", "crop": [300, 2200, 2100, 3004], "mark": [857, 620, 110], "caption": "Her rengin bir numarası var."},
+  {"image": "images/04_tokens/ktisis_padded.jpg", "caption": "Token: metin de böyle parçalanır ve numaralanır."}
+ ]}

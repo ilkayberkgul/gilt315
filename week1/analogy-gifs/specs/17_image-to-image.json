@@ -1,0 +1,8 @@
+{"slug": "17_image-to-image", "title_tr": "Başlangıç noktası olarak görüntü", "term_en": "image to image",
+ "frames": [
+  {"image": "images/17_image-to-image/pad_0.jpg", "caption": "Senin eskizin."},
+  {"image": "images/17_image-to-image/pad_1.jpg", "caption": "Tek kat: her çizgi görünür, yakın kopya."},
+  {"image": "images/17_image-to-image/pad_3.jpg", "caption": "Üç kat: sadece ana şekiller."},
+  {"image": "images/17_image-to-image/pad_5.jpg", "caption": "Beş kat: kaba bir siluet, gerisini sen uydurursun."},
+  {"image": "images/17_image-to-image/side_by_side.jpg", "caption": "Güç: kaç kat aydınger."}
+ ]}

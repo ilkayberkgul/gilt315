@@ -1,0 +1,8 @@
+{"slug": "18_agents", "title_tr": "Ajanlar", "term_en": "agents",
+ "frames": [
+  {"image": "images/18_agents/brief_flipchart.jpg", "crop": [0, 150, 2500, 1266], "caption": "Hedef."},
+  {"image": "images/18_agents/research_notes.jpg", "crop": [0, 100, 1024, 557], "caption": "Araştır."},
+  {"image": "images/18_agents/ad_cw_padded.jpg", "caption": "Tasarla, yaz."},
+  {"image": "images/18_agents/production_padded.jpg", "caption": "Üret."},
+  {"image": "images/18_agents/pinup_wall_review.jpg", "crop": [300, 300, 1500, 836], "mark": [960, 390, 95], "caption": "Sonucu insan değerlendirir."}
+ ]}
