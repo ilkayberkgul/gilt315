@@ -166,8 +166,12 @@ Derived: `18_agents/ad_cw_padded.jpg`, `18_agents/production_padded.jpg`
 
 | File | Page | Direct URL | Author | License |
 |---|---|---|---|---|
+| `19_types-of-ai/archivist_files.jpg` | https://www.flickr.com/photos/30346812@N07/49249051343 | https://live.staticflickr.com/65535/49249051343_daf6f10251_3k.jpg | Orange County Archives | by 2.0 |
 | `19_types-of-ai/copywriter_loc.jpg` | https://www.loc.gov/item/2017826172/ | https://tile.loc.gov/storage-services/master/pnp/fsa/8c35000/8c35100/8c35199u.tif (converted to JPEG) | Arthur S. Siegel, FSA/OWI (1942), Copy writer in a large advertising agency, Library of Congress | Public domain (no known restrictions) |
+| `19_types-of-ai/guide_gulf_stream.jpg` | https://commons.wikimedia.org/wiki/File:Guide_and_The_Gulf_Stream_jeh.jpg | https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Guide_and_The_Gulf_Stream_jeh.jpg/1920px-Guide_and_The_Gulf_Stream_jeh.jpg | Jim.henderson | CC BY-SA 4.0 |
 | `19_types-of-ai/illustrator_matsumoto_loc.jpg` | https://www.loc.gov/item/2002695142/ | https://tile.loc.gov/storage-services/master/pnp/ppprs/00000/00062u.tif (16-bit TIFF, levels normalized, halved, saved as JPEG) | Ansel Adams, Akio Matsumoto, commercial artist, Manzanar (1943), Library of Congress | Public domain (no known restrictions) |
+
+Derived: `19_types-of-ai/copywriter_loc_padded.jpg`, `19_types-of-ai/grid_2x2.jpg`, `19_types-of-ai/grid_padded.jpg`, `19_types-of-ai/illustrator_matsumoto_loc_padded.jpg`
 
 ## 20_neural-network
 

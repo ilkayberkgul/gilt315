@@ -1,0 +1,8 @@
+{"slug": "19_types-of-ai", "title_tr": "Yapay zekâ türleri", "term_en": "types of AI",
+ "frames": [
+  {"image": "images/19_types-of-ai/copywriter_loc_padded.jpg", "caption": "Metinden metin: LLM."},
+  {"image": "images/19_types-of-ai/illustrator_matsumoto_loc_padded.jpg", "caption": "Metinden görsel: görsel üretici."},
+  {"image": "images/19_types-of-ai/archivist_files.jpg", "crop": [0, 280, 2560, 1423], "caption": "Görselden etiket: sınıflandırıcı."},
+  {"image": "images/19_types-of-ai/guide_gulf_stream.jpg", "crop": [0, 150, 1920, 1007], "caption": "Görselden söz: çok kipli."},
+  {"image": "images/19_types-of-ai/grid_padded.jpg", "caption": "Dört tür, dört iş."}
+ ]}
