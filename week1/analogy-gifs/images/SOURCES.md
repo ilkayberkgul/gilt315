@@ -99,8 +99,11 @@ Derived: `12_prompt-brief/tweet_canvas.jpg`, `12_prompt-brief/tweet_close.jpg`, 
 | File | Page | Direct URL | Author | License |
 |---|---|---|---|---|
 | `13_training-data/empty_board.jpg` | https://www.flickr.com/photos/87957708@N00/2213391300 | https://live.staticflickr.com/2007/2213391300_987c7c27c0_h.jpg | joelogon | by-sa 2.0 |
+| `13_training-data/hiroshige_plum_park_kameido.jpg` | https://www.rijksmuseum.nl/en/collection/RP-P-1956-743 | https://iiif.micr.io/rVNKx/full/max/0/default.jpg | Utagawa Hiroshige, Plum Park in Kameido (1857), Rijksmuseum | Public domain (Rijksmuseum) |
+| `13_training-data/van_gogh_flowering_plum_orchard.jpg` | https://www.vangoghmuseum.nl/en/collection/s0115V1962 | https://iiif.micr.io/MagLm/full/max/0/default.jpg | Vincent van Gogh, Flowering Plum Orchard (after Hiroshige) (1887), Van Gogh Museum | Public domain |
+| `13_training-data/van_gogh_pere_tanguy.jpg` | https://commons.wikimedia.org/wiki/File:Van_Gogh_-_Bildnis_P%C3%A9re_Tanguy.jpeg | https://commons.wikimedia.org/wiki/Special:FilePath/Van_Gogh_-_Bildnis_P%C3%A9re_Tanguy.jpeg?width=3869 | Vincent van Gogh | Public domain |
 
-Derived: `13_training-data/Van_Gogh___Bildnis_Pére_Tanguy.jpg`
+Derived: `13_training-data/plum_orchard_padded.jpg`, `13_training-data/side_by_side.jpg`, `13_training-data/tanguy_padded.jpg`
 
 ## 14_prompt-seed
 
@@ -165,8 +168,6 @@ Derived: `18_agents/ad_cw_padded.jpg`, `18_agents/production_padded.jpg`
 |---|---|---|---|---|
 | `19_types-of-ai/copywriter_loc.jpg` | https://www.loc.gov/item/2017826172/ | https://tile.loc.gov/storage-services/master/pnp/fsa/8c35000/8c35100/8c35199u.tif (converted to JPEG) | Arthur S. Siegel, FSA/OWI (1942), Copy writer in a large advertising agency, Library of Congress | Public domain (no known restrictions) |
 | `19_types-of-ai/illustrator_matsumoto_loc.jpg` | https://www.loc.gov/item/2002695142/ | https://tile.loc.gov/storage-services/master/pnp/ppprs/00000/00062u.tif (16-bit TIFF, levels normalized, halved, saved as JPEG) | Ansel Adams, Akio Matsumoto, commercial artist, Manzanar (1943), Library of Congress | Public domain (no known restrictions) |
-
-Derived: `19_types-of-ai/Archivist_at_Kibbutz_Lochamei_Hagetaot.jpg`
 
 ## 20_neural-network
 
