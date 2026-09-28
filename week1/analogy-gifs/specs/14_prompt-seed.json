@@ -1,0 +1,8 @@
+{"slug": "14_prompt-seed", "title_tr": "Prompt ve tohum", "term_en": "prompt and seed",
+ "frames": [
+  {"image": "images/14_prompt-seed/one.jpg", "caption": "Bir kalıp."},
+  {"image": "images/14_prompt-seed/four.jpg", "caption": "Aynı kalıp, farklı renk."},
+  {"image": "images/14_prompt-seed/grid_padded.jpg", "caption": "Her baskı bir versiyon."},
+  {"image": "images/14_prompt-seed/two_identical.jpg", "caption": "Aynı kalıp, aynı renk: aynı baskı."},
+  {"image": "images/14_prompt-seed/grid_padded.jpg", "caption": "Prompt neyi, tohum hangi versiyonu seçer."}
+ ]}

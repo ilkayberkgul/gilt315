@@ -1,0 +1,8 @@
+{"slug": "15_temperature", "title_tr": "Sıcaklık", "term_en": "temperature",
+ "frames": [
+  {"image": "images/15_temperature/tight_padded.jpg", "caption": "Düşük sıcaklık."},
+  {"image": "images/15_temperature/ingres_lethiere_tight.jpg", "crop": [860, 918, 2260, 1543], "caption": "Her çizgi beklendiği yerde."},
+  {"image": "images/15_temperature/loose_padded.jpg", "caption": "Yüksek sıcaklık."},
+  {"image": "images/15_temperature/ingres_study_loose.jpg", "crop": [110, 1348, 1910, 2152], "caption": "Sürprizler, kazalar."},
+  {"image": "images/15_temperature/side_by_side.jpg", "caption": "Aynı model, iki sıcaklık."}
+ ]}

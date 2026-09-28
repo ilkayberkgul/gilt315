@@ -1,0 +1,8 @@
+{"slug": "03_backpropagation", "title_tr": "Geri yayılım", "term_en": "backpropagation",
+ "frames": [
+  {"image": "images/03_backpropagation/rockwell_triple_self_portrait.jpg", "crop": [40, 675, 600, 925], "caption": "Modele bak."},
+  {"image": "images/03_backpropagation/rockwell_triple_self_portrait.jpg", "crop": [400, 447, 1040, 733], "caption": "Tuvale bak."},
+  {"image": "images/03_backpropagation/rockwell_triple_self_portrait.jpg", "crop": [400, 447, 1040, 733], "mark": [955, 500, 160], "caption": "Farkı gör."},
+  {"image": "images/03_backpropagation/rockwell_triple_self_portrait.jpg", "crop": [620, 575, 1180, 825], "caption": "Fırçayı biraz düzelt."},
+  {"image": "images/03_backpropagation/rockwell_padded.jpg", "caption": "Her bakış bir düzeltme. Tekrar."}
+ ]}

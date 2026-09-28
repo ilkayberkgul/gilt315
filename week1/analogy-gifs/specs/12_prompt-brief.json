@@ -1,0 +1,27 @@
+{
+ "slug": "12_prompt-brief",
+ "title_tr": "Prompt bir brieftir",
+ "term_en": "prompt is a brief",
+ "frames": [
+  {
+   "image": "images/12_prompt-brief/tweet_canvas.jpg",
+   "caption": "Karpathy, 2023."
+  },
+  {
+   "image": "images/12_prompt-brief/tweet_close.jpg",
+   "caption": "En yeni programlama dili İngilizce."
+  },
+  {
+   "image": "images/12_prompt-brief/tweet_close.jpg",
+   "caption": "Yani: kelimelerle yazılır."
+  },
+  {
+   "image": "images/12_prompt-brief/tweet_close_underline.jpg",
+   "caption": "Bir prompt, bir brieftir."
+  },
+  {
+   "image": "images/12_prompt-brief/tweet_canvas.jpg",
+   "caption": "Her kelime seçenekleri daraltır."
+  }
+ ]
+}

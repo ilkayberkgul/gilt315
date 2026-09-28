@@ -1,0 +1,8 @@
+{"slug": "16_lora", "title_tr": "LoRA", "term_en": "LoRA",
+ "frames": [
+  {"image": "images/16_lora/empty_brick_wall.jpg", "crop": [0, 300, 2228, 1295], "caption": "Duvar: büyük model."},
+  {"image": "images/16_lora/stencil_cut_in_hand.jpg", "crop": [0, 182, 1200, 718], "caption": "Şablon: kendi çiziminden kesilmiş küçük bir ek."},
+  {"image": "images/16_lora/spraying_stencil.jpg", "crop": [0, 640, 854, 1021], "caption": "Tak."},
+  {"image": "images/16_lora/astronaut_piece_padded.jpg", "caption": "Duvar senin tarzını aldı."},
+  {"image": "images/16_lora/astronaut_wide_padded.jpg", "caption": "Kaldır. Duvar değişmedi, iş kaldı."}
+ ]}

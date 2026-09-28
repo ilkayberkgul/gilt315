@@ -1,0 +1,51 @@
+{
+ "slug": "20_neural-network",
+ "title_tr": "Sinir ağı",
+ "term_en": "neural network",
+ "frames": [
+  {
+   "image": "images/20_neural-network/grande_jatte_full.jpg",
+   "crop": [
+    3900,
+    2979,
+    4220,
+    3122
+   ],
+   "caption": "Tek nokta hiçbir şey demez."
+  },
+  {
+   "image": "images/20_neural-network/grande_jatte_full.jpg",
+   "crop": [
+    3610,
+    2849,
+    4510,
+    3251
+   ],
+   "caption": "Yüzlercesi bir leke."
+  },
+  {
+   "image": "images/20_neural-network/grande_jatte_full.jpg",
+   "crop": [
+    2492,
+    2350,
+    5628,
+    3750
+   ],
+   "caption": "Binlercesi bir figür."
+  },
+  {
+   "image": "images/20_neural-network/grande_jatte_full.jpg",
+   "crop": [
+    960,
+    1666,
+    7160,
+    4434
+   ],
+   "caption": "Milyonlarcası bir sahne."
+  },
+  {
+   "image": "images/20_neural-network/grande_jatte_padded.jpg",
+   "caption": "Sinir ağı: küçük birimler, birlikte bir resim."
+  }
+ ]
+}

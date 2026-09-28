@@ -1,0 +1,8 @@
+{"slug": "05_attention", "title_tr": "Dikkat", "term_en": "attention",
+ "frames": [
+  {"image": "images/05_attention/market_focus_a.jpg", "crop": [0, 1250, 2848, 2521], "caption": "Bir cümle, bütün kelimeler."},
+  {"image": "images/05_attention/market_focus_a.jpg", "crop": [500, 1600, 2100, 2314], "caption": "Bir kelime bazılarına odaklanır."},
+  {"image": "images/05_attention/market_focus_b.jpg", "crop": [122, 1401, 1722, 2115], "caption": "Her kelime kendi odağını seçer."},
+  {"image": "images/05_attention/market_focus_a.jpg", "crop": [500, 1600, 2100, 2314], "mark": [1126, 640, 150], "caption": "Önemli olan keskin, gerisi flu."},
+  {"image": "images/05_attention/market_focus_a.jpg", "crop": [0, 1250, 2848, 2521], "caption": "Dikkat: her kelime diğerlerini tartar."}
+ ]}

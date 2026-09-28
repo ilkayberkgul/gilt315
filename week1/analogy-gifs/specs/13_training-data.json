@@ -1,0 +1,8 @@
+{"slug": "13_training-data", "title_tr": "Eğitim verisi", "term_en": "training data",
+ "frames": [
+  {"image": "images/13_training-data/empty_board.jpg", "crop": [40, 280, 1400, 887], "caption": "Önce hiçbir şey."},
+  {"image": "images/13_training-data/van_gogh_pere_tanguy.jpg", "crop": [0, 0, 3840, 1714], "caption": "Örnekler birikir."},
+  {"image": "images/13_training-data/tanguy_padded.jpg", "caption": "Yüzlerce örnek."},
+  {"image": "images/13_training-data/plum_orchard_padded.jpg", "caption": "Yapılan iş panoya benzer."},
+  {"image": "images/13_training-data/side_by_side.jpg", "caption": "Model, örneklerinin toplamıdır."}
+ ]}

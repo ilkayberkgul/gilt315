@@ -1,0 +1,57 @@
+{
+ "slug": "06_latent-space",
+ "title_tr": "Latent uzay",
+ "term_en": "latent space",
+ "frames": [
+  {
+   "image": "images/06_latent-space/hudf_heic0611b.jpg",
+   "crop": [
+    0,
+    3432,
+    6200,
+    6200
+   ],
+   "caption": "Her nokta bir fikir."
+  },
+  {
+   "image": "images/06_latent-space/hudf_heic0611b.jpg",
+   "crop": [
+    3100,
+    4188,
+    6200,
+    5572
+   ],
+   "caption": "Benzerler yan yana durur."
+  },
+  {
+   "image": "images/06_latent-space/hudf_heic0611b.jpg",
+   "crop": [
+    4075,
+    4534,
+    5625,
+    5226
+   ],
+   "caption": "Yaklaştıkça kümeler görünür."
+  },
+  {
+   "image": "images/06_latent-space/hudf_heic0611b.jpg",
+   "crop": [
+    4463,
+    4707,
+    5238,
+    5053
+   ],
+   "caption": "Bir küme: bir kavram."
+  },
+  {
+   "image": "images/06_latent-space/hudf_heic0611b.jpg",
+   "crop": [
+    4656,
+    4794,
+    5044,
+    4967
+   ],
+   "caption": "İçinde yüzlerce versiyon."
+  }
+ ]
+}

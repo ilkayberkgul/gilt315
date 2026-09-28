@@ -1,0 +1,8 @@
+{"slug": "01_model-training", "title_tr": "Model eğitimi", "term_en": "model training",
+ "frames": [
+  {"image": "images/01_model-training/sorrow_padded.jpg", "caption": "Van Gogh, 1882."},
+  {"image": "images/01_model-training/sorrow_1882.jpg", "crop": [170, 880, 1670, 1550], "caption": "Oranlar bozuk, çizgi tereddütlü."},
+  {"image": "images/01_model-training/roulin_padded.jpg", "caption": "1889. Aynı el."},
+  {"image": "images/01_model-training/roulin_1888.jpg", "crop": [930, 1670, 3530, 2831], "caption": "Binlerce kez düzeltilmiş."},
+  {"image": "images/01_model-training/side_by_side.jpg", "caption": "Eğitim budur: tahmin, düzeltme, tekrar."}
+ ]}

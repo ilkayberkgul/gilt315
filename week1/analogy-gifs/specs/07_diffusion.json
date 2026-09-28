@@ -1,0 +1,8 @@
+{"slug": "07_diffusion", "title_tr": "Difüzyon", "term_en": "diffusion",
+ "frames": [
+  {"image": "images/07_diffusion/test_strips.jpg", "crop": [40, 100, 600, 350], "caption": "Boş kâğıt."},
+  {"image": "images/07_diffusion/test_strips.jpg", "crop": [760, 1150, 1460, 1463], "caption": "İlk gölgeler."},
+  {"image": "images/07_diffusion/test_strips.jpg", "crop": [1150, 880, 1850, 1193], "caption": "Adım adım."},
+  {"image": "images/07_diffusion/test_strips.jpg", "crop": [2150, 900, 2924, 1246], "caption": "Neyin geleceğini bilerek."},
+  {"image": "images/07_diffusion/test_strips_padded.jpg", "caption": "Difüzyon: gürültüden görüntüye."}
+ ]}

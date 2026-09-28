@@ -1,0 +1,8 @@
+{"slug": "02_inference", "title_tr": "Çıkarım", "term_en": "inference",
+ "frames": [
+  {"image": "images/02_inference/napkin_padded.jpg", "caption": "Bir peçete, bir kalem."},
+  {"image": "images/02_inference/napkin_doodle.jpg", "crop": [500, 1280, 3091, 2437], "caption": "Beş saniye."},
+  {"image": "images/02_inference/drawing_padded.jpg", "caption": "Bitti."},
+  {"image": "images/02_inference/drawing_padded.jpg", "mark": [909, 407, 150], "caption": "'Beş saniye sürdü, ama kırk yılımı aldı.'"},
+  {"image": "images/02_inference/napkin_padded.jpg", "caption": "Öğrenme bitmiş, çizmek anlık: çıkarım."}
+ ]}
